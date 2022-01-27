@@ -2,8 +2,9 @@
 
 Training project using:
 - HTML/CSS;
-- React/Node.js
-- SCSS preprocessors ;
+- JavaScript;
+- React/Node.js;
+- SCSS preprocessors;
 - using BEM methodology;
-- Mobile First methodology
-- division of hypertext markup and style sheets into small modules and sub-modules.
+- Mobile First methodology;
+- division of hypertext markup and style sheets into small modules and sub-modules;
